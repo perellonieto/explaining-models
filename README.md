@@ -1,6 +1,6 @@
 # explaining-models
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/perellonieto/explaining-models/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/perellonieto/explaining-models/main)
 
 
 ## Python Development
