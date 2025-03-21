@@ -1,0 +1,14 @@
+
+name: explaining-models
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.*
+  - matplotlib
+  - numpy
+  - lime
+  - shap
+  - scikit-learn
+  - jupyter
+  - pandas
+  - ucimlrepo

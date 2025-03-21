@@ -1,0 +1,7 @@
+numpy
+matplotlib
+lime
+shap
+scikit-learn
+jupyter
+ucimlrepo
